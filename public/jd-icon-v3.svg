@@ -1,0 +1,46 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <title>Jason Donmoyer JD Icon V3</title>
+  <desc>Custom JD monogram with developer-style braces, optimized for SaaS branding.</desc>
+
+  <!-- Braces -->
+  <path d="M132 110
+           C108 110 96 124 96 148
+           V188
+           C96 205 84 218 68 224
+           C84 230 96 243 96 260
+           V364
+           C96 388 108 402 132 402"
+        stroke="#0F172A" stroke-width="18" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M380 110
+           C404 110 416 124 416 148
+           V188
+           C416 205 428 218 444 224
+           C428 230 416 243 416 260
+           V364
+           C416 388 404 402 380 402"
+        stroke="#2563EB" stroke-width="18" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- J -->
+  <path d="M212 150
+           V312
+           C212 350 187 376 148 376
+           C117 376 96 356 96 328"
+        stroke="#0F172A" stroke-width="28" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M184 150
+           H236"
+        stroke="#0F172A" stroke-width="28" fill="none" stroke-linecap="round"/>
+
+  <!-- D -->
+  <path d="M266 150
+           V362"
+        stroke="#0F172A" stroke-width="28" fill="none" stroke-linecap="round"/>
+
+  <path d="M266 150
+           H304
+           C354 150 390 183 390 256
+           C390 329 354 362 304 362
+           H266"
+        stroke="#0F172A" stroke-width="28" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
