@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <main>
       <Hero></Hero>
-      <ServicesPreview></ServicesPreview>
       <FeaturedProjects></FeaturedProjects>
+      <ServicesPreview></ServicesPreview>
     </main>
   );
 }
