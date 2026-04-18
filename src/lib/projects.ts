@@ -15,7 +15,7 @@ export const projects: Project[] = [
         summary: "Built a full-stack plumbing business site with a custom admin CMS so the owner can manage content, leads, and services without touching code.",
         stack: ["Next.js", "Supabase", "Tailwind CSS", "Typescript"],
         liveUrl: "https://centerstateplumbingnj.com",
-        githubUrl: "",
+        githubUrl: "https://github.com/Jason-Donmoyer/centerstate-plumbing",
         slug: "landing-page",
         featured: true,
         status: "complete",
@@ -37,7 +37,7 @@ export const projects: Project[] = [
         liveUrl: "",
         githubUrl: "",
         slug: "ops-automator",
-        featured: false,
+        featured: true,
         status: "planned"
     },
     {
@@ -67,7 +67,7 @@ export const projects: Project[] = [
         liveUrl: "",
         githubUrl: "",
         slug: "booking-app",
-        featured: false,
+        featured: true,
         status: "in-progress"
     },
     {
