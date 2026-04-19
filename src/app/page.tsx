@@ -3,6 +3,7 @@ import FeaturedProjects from '@/components/home/FeaturedProjects';
 import ServicesPreview from '@/components/home/ServicesPreview';
 import SkillsGrid from '@/components/home/SkillsGrid';
 import AboutPreview from '@/components/home/AboutPreview'
+import ContactCTA from '@/components/home/ContactCTA';
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <ServicesPreview></ServicesPreview>
       <SkillsGrid></SkillsGrid>
       <AboutPreview></AboutPreview>
+      <ContactCTA></ContactCTA>
     </main>
   );
 }
