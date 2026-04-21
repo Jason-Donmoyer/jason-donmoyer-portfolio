@@ -7,7 +7,7 @@ import ContactCTA from '@/components/home/ContactCTA'
 
 export default function Home() {
   return (
-    <main>
+    <main className="overflow-x-hidden">
       <Hero></Hero>
       <FeaturedProjects></FeaturedProjects>
       <ServicesPreview></ServicesPreview>
