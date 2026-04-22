@@ -22,6 +22,7 @@ export default function Navbar() {
                         <Link onClick={() => setMobileMenu(false)} className="cursor-pointer text-copy font-semibold" href="/services">Services</Link>
                         <Link onClick={() => setMobileMenu(false)} className="cursor-pointer text-copy font-semibold" href="/about">About</Link>
                         <Link onClick={() => setMobileMenu(false)} className="cursor-pointer text-copy font-semibold" href="/contact">Contact</Link> 
+                        <Link onClick={() => setMobileMenu(false)} className="cursor-pointer text-copy font-semibold" href="/">Home</Link> 
                     </div>
                     <div className="flex gap-4 items-center">
                         <a href="https://github.com/Jason-Donmoyer"><FaGithub size={30} onClick={() => setMobileMenu(false)}></FaGithub></a>
@@ -36,6 +37,7 @@ export default function Navbar() {
                     <Link className="cursor-pointer text-copy font-semibold hover:text-accent-hover" href="/services">Services</Link>
                     <Link className="cursor-pointer text-copy font-semibold hover:text-accent-hover" href="/about">About</Link>
                     <Link className="cursor-pointer text-copy font-semibold hover:text-accent-hover" href="/contact">Contact</Link>
+                    <Link className="cursor-pointer text-copy font-semibold hover:text-accent-hover" href="/">Home</Link>
                 </div>
                 <div className="flex gap-4 items-center">
                     <a href="https://github.com/Jason-Donmoyer"><FaGithub size={20}></FaGithub></a>
